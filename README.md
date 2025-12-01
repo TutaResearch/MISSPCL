@@ -1,4 +1,4 @@
-##This is the official code implementation of the AJCAI 2025 paper: Personalized Federated Graph Learning for Heterogeneous Incomplete EHRs
+## This is the official code implementation of the AJCAI 2025 paper: Personalized Federated Graph Learning for Heterogeneous Incomplete EHRs
 
 ## Usage
 1. Download raw dataset from the official site: 
