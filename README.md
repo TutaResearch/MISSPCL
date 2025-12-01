@@ -1,3 +1,5 @@
+#This is the official code implementation of the AJCAI 2025 paper: Personalized Federated Graph Learning for Heterogeneous Incomplete EHRs
+
 ## Usage
 1. Download raw dataset from the official site: 
     - MIMIC-4: https://physionet.org/content/mimiciv/3.1/
@@ -29,3 +31,15 @@
   - tqdm=4.67.1
   - transformers=4.46.3
   - wandb=0.19.6
+
+## Citation
+@InProceedings{10.1007/978-981-95-4972-6_27,
+author="Chen, Liping and Bai, Guangqing and Han, Zhuoyang and Ren, Jing and Liu, Mujie and Tang, Tao and Yu, Shuo and Lee, Ivan",
+title="Personalized Federated Graph Learning for Heterogeneous Incomplete EHRs",
+booktitle="AI 2025: Advances in Artificial Intelligence",
+year="2026",
+publisher="Springer Nature Singapore",
+address="Singapore",
+pages="347--358",
+isbn="978-981-95-4972-6"
+}
