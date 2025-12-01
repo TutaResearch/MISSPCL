@@ -1,0 +1,3 @@
+# this is used for 8 clients and 1 server training within the second GPU
+mapping_default:
+  default: [ 0, 9 ]
